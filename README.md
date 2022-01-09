@@ -1,9 +1,11 @@
 # git-practice
 このリポジトリはGit動画講座用です
 aaaaaa
-test
+tesssssst
 asefasefiasjasijefa
 
 aseifasfeil
 
+sefs
+agsesg
 ．
